@@ -1,0 +1,1 @@
+Think of the DOM as a blueprint of a house. Just as you can use the blueprint to understand and change the structure of the house, you can use the DOM to understand and change the structure of a webpage.”

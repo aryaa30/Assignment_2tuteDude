@@ -1,0 +1,14 @@
+
+    #box{
+        display: none;
+        height: 400px;
+        background-color:aquamarine;
+        position: relative;
+    }
+.show{
+    display:block ;
+}
+h3{
+    position: relative;
+    z-index: 1;
+}
